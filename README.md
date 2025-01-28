@@ -1,2 +1,8 @@
 # plastic-list-analysis
-Analysis of the Plastic List report
+Some rough summaries of the Plastic List report
+
+plasticlist.org
+
+# Summary
+![BPA](./Notebooks/output.png)
+
